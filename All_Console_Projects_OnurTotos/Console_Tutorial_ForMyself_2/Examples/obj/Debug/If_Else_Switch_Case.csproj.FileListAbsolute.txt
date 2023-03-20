@@ -1,0 +1,8 @@
+C:\Users\onurt\source\repos\C# Kurs\Console_Tutorial_ForMyself_2\Examples\bin\Debug\Examples.exe.config
+C:\Users\onurt\source\repos\C# Kurs\Console_Tutorial_ForMyself_2\Examples\bin\Debug\Examples.exe
+C:\Users\onurt\source\repos\C# Kurs\Console_Tutorial_ForMyself_2\Examples\bin\Debug\Examples.pdb
+C:\Users\onurt\source\repos\C# Kurs\Console_Tutorial_ForMyself_2\Examples\obj\Debug\If_Else_Switch_Case.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\C# Kurs\Console_Tutorial_ForMyself_2\Examples\obj\Debug\If_Else_Switch_Case.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\C# Kurs\Console_Tutorial_ForMyself_2\Examples\obj\Debug\If_Else_Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\C# Kurs\Console_Tutorial_ForMyself_2\Examples\obj\Debug\Examples.exe
+C:\Users\onurt\source\repos\C# Kurs\Console_Tutorial_ForMyself_2\Examples\obj\Debug\Examples.pdb
