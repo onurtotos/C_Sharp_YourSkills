@@ -1,0 +1,8 @@
+C:\Users\onurt\source\repos\C#ForLoops\While_Loops\While_Loops\bin\Debug\While_Loops.exe.config
+C:\Users\onurt\source\repos\C#ForLoops\While_Loops\While_Loops\bin\Debug\While_Loops.exe
+C:\Users\onurt\source\repos\C#ForLoops\While_Loops\While_Loops\bin\Debug\While_Loops.pdb
+C:\Users\onurt\source\repos\C#ForLoops\While_Loops\While_Loops\obj\Debug\While_Loops.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\C#ForLoops\While_Loops\While_Loops\obj\Debug\While_Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\C#ForLoops\While_Loops\While_Loops\obj\Debug\While_Loops.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\C#ForLoops\While_Loops\While_Loops\obj\Debug\While_Loops.exe
+C:\Users\onurt\source\repos\C#ForLoops\While_Loops\While_Loops\obj\Debug\While_Loops.pdb
