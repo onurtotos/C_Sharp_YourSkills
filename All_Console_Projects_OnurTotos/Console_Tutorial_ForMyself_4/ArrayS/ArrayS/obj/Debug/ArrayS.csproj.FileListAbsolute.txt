@@ -1,0 +1,16 @@
+C:\Users\onurt\source\repos\C#ForLoops\ArrayS\ArrayS\bin\Debug\ArrayS.exe.config
+C:\Users\onurt\source\repos\C#ForLoops\ArrayS\ArrayS\bin\Debug\ArrayS.exe
+C:\Users\onurt\source\repos\C#ForLoops\ArrayS\ArrayS\bin\Debug\ArrayS.pdb
+C:\Users\onurt\source\repos\C#ForLoops\ArrayS\ArrayS\obj\Debug\ArrayS.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\C#ForLoops\ArrayS\ArrayS\obj\Debug\ArrayS.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\C#ForLoops\ArrayS\ArrayS\obj\Debug\ArrayS.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\C#ForLoops\ArrayS\ArrayS\obj\Debug\ArrayS.exe
+C:\Users\onurt\source\repos\C#ForLoops\ArrayS\ArrayS\obj\Debug\ArrayS.pdb
+C:\Users\onurt\source\repos\C# Kurs\ArrayS\ArrayS\bin\Debug\ArrayS.exe.config
+C:\Users\onurt\source\repos\C# Kurs\ArrayS\ArrayS\bin\Debug\ArrayS.exe
+C:\Users\onurt\source\repos\C# Kurs\ArrayS\ArrayS\bin\Debug\ArrayS.pdb
+C:\Users\onurt\source\repos\C# Kurs\ArrayS\ArrayS\obj\Debug\ArrayS.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\C# Kurs\ArrayS\ArrayS\obj\Debug\ArrayS.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\C# Kurs\ArrayS\ArrayS\obj\Debug\ArrayS.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\C# Kurs\ArrayS\ArrayS\obj\Debug\ArrayS.exe
+C:\Users\onurt\source\repos\C# Kurs\ArrayS\ArrayS\obj\Debug\ArrayS.pdb
